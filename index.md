@@ -6,4 +6,11 @@
 ```javascript
 var myVar = "Hello, world!";
 ```
+### Add a task list
+
+   ```md
+   - [ ] Turn on GitHub Pages
+   - [ ] Outline my portfolio
+   - [ ] Introduce myself to the world
+   ```
 ###### Edit the file with headers
